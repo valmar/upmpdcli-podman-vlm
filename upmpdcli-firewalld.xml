@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Upmpdcli</short>
+  <description>An UPnP Audio Media Renderer based on MPD.</description>
+  <port protocol="tcp" port="49152-49172"/>
+  <port protocol="udp" port="1900"/>
+</service>
